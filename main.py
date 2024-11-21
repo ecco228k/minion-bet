@@ -1,1 +1,1 @@
-print('protiv')
+print('protiv hohlov')
