@@ -1,1 +1,1 @@
-print('Code10')
+print('a')
