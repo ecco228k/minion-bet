@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		38A13F0C2CEFBF17008E4C69 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		38AF879F2CF0DF1E00F5B4C7 /* other.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = other.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,6 +16,7 @@
 			isa = PBXGroup;
 			children = (
 				38A13F0C2CEFBF17008E4C69 /* main.py */,
+				38AF879F2CF0DF1E00F5B4C7 /* other.py */,
 			);
 			sourceTree = "<group>";
 		};
