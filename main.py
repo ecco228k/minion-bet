@@ -63,3 +63,8 @@ def handle_text(message):
 
 # Запуск бота
 bot.polling(none_stop=True)
+
+
+
+
+asdfghjkl;lkjhgfgh
